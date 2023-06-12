@@ -1,2 +1,2 @@
 # Article_Summarizer
-##Summarizing news article using Distilbart.
+##Summarizing news article using Distilbart CNN.
